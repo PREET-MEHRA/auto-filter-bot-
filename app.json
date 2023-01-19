@@ -1,22 +1,5 @@
 
-PREET-MEHRA
-/
-PREET-EXTRA-FEATURES
-Public
-forked from Aadhi000/Ajax-Extra-Features
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-PREET-EXTRA-FEATURES/app.json
-@PREET-MEHRA
-PREET-MEHRA Update app.json
- 2 contributors
-122 lines (122 sloc)  4.55 KB
+
 {
     "name": "𝙿𝚁𝙴𝙴𝚃_𝙼𝙴𝙷𝚁𝙰",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
